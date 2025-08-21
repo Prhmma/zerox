@@ -95,6 +95,11 @@ export enum ModelOptions {
   OPENAI_GPT_4O = "gpt-4o",
   OPENAI_GPT_4O_MINI = "gpt-4o-mini",
 
+  // OpenAI GPT-5 Models
+  OPENAI_GPT_5 = "gpt-5",
+  OPENAI_GPT_5_MINI = "gpt-5-mini",
+  OPENAI_GPT_5_NANO = "gpt-5-nano",
+
   // Google Gemini Models
   GOOGLE_GEMINI_1_5_FLASH = "gemini-1.5-flash",
   GOOGLE_GEMINI_1_5_FLASH_8B = "gemini-1.5-flash-8b",

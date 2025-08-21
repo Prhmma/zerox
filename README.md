@@ -213,6 +213,9 @@ Zerox supports a wide range of models across different providers:
   - GPT-4 Vision Mini (gpt-4o-mini)
   - GPT-4.1 (gpt-4.1)
   - GPT-4.1 Mini (gpt-4.1-mini)
+  - GPT-5 (gpt-5)
+  - GPT-5 Mini (gpt-5-mini)
+  - GPT-5 Nano (gpt-5-nano)
 
 - **OpenAI**
 
@@ -220,6 +223,9 @@ Zerox supports a wide range of models across different providers:
   - GPT-4 Vision Mini (gpt-4o-mini)
   - GPT-4.1 (gpt-4.1)
   - GPT-4.1 Mini (gpt-4.1-mini)
+  - GPT-5 (gpt-5)
+  - GPT-5 Mini (gpt-5-mini)
+  - GPT-5 Nano (gpt-5-nano)  
 
 - **AWS Bedrock**
 
