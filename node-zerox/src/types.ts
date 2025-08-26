@@ -28,6 +28,7 @@ export interface ZeroxArgs {
   imageHeight?: number;
   imageFormat?: "png" | "jpeg";
   llmParams?: Partial<LLMParams>;
+  reasoning_effort?: "minimal" | "low" | "medium" | "high";
   maintainFormat?: boolean;
   maxImageSize?: number;
   maxRetries?: number;
@@ -227,6 +228,7 @@ export interface GoogleLLMParams extends BaseLLMParams {
 export interface OpenAILLMParams extends BaseLLMParams {
   logprobs: boolean;
   maxTokens: number;
+  reasoning_effort?: "minimal" | "low" | "medium" | "high";
 }
 
 // Union type of all provider params
