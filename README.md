@@ -96,6 +96,7 @@ const result = await zerox({
 
 ### Parameters
 
+```ts
 const result = await zerox({
   // Required
   filePath: "path/to/file",
